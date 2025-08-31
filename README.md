@@ -44,11 +44,10 @@ This project examines detailed YouTube metrics, including video performance, eng
 - **Jupyter Notebook** (for EDA and modeling workflow)
 
 ## Usage
-1. Clone this repo and place the dataset in the `data/` folder.
+1. Clone this repository.
 2. Install requirements: pip install -r requirements.txt
 3. Run and explore the Jupyter notebook for data analysis and model building.
-4. Launch the Streamlit app via: streamlit run streamlit_app/app.py
+4. Launch the Streamlit app via: streamlit run app.py
 
 ---
 
-*For more information, see the notebook and app scripts, and consult the included figures for further analysis details.*
